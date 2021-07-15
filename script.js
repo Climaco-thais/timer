@@ -1,4 +1,7 @@
 window.addEventListener("load", () => { secpass 
+
+// fiquei com dúvidas em como fechar a linha de código que contém o secpass
+
 //Tempo, em segundos, que queremos.
 let sec = 180;
 
